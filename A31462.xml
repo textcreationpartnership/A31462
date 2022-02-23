@@ -1,0 +1,193 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Maddam Celliers answer to the Popes letter, dated from the Vatican the 1st of August, 1680 wherein she declares her fidelity and firmness to the Catholick-cause ...</title>
+            <author>Cellier, Elizabeth, fl. 1680.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A31462</idno>
+            <idno type="STC">Wing C1659</idno>
+            <idno type="STC">ESTC R7389</idno>
+            <idno type="EEBO-CITATION">11976426</idno>
+            <idno type="OCLC">ocm 11976426</idno>
+            <idno type="VID">51790</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A31462)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 51790)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 58:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Maddam Celliers answer to the Popes letter, dated from the Vatican the 1st of August, 1680 wherein she declares her fidelity and firmness to the Catholick-cause ...</title>
+                  <author>Cellier, Elizabeth, fl. 1680.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by D. Mallet,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1680.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A satire.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Religious satire, English.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:51790:1" rendition="simple:additions"/>
+            <head>
+               <hi>Maddam Celliers</hi> ANSWER TO THE POPES LETTER. Dated from the <hi>Vatican</hi> the 1ſt of <hi>Auguſt,</hi> 1680. Wherein ſhe Declares her fidelity and firmneſs to the Catholick-Cauſe,</head>
+            <argument>
+               <p>And expreſſes her Joy for his HOLINESSES Compaſſi<g ref="char:EOLhyphen"/>onate Bounty and Care of his Afflicted Daughter, with the Relation how, ſhe was Delivered by the help of his Sons the <hi>Jeſuites</hi> in <hi>Newgate,</hi> of her late Prodigious Narrative, and alſo of her mighty Sufferings, and ſtrange Ad<g ref="char:EOLhyphen"/>ventures that has befel her ſince her late Confinement.</p>
+               <p>With her humble Requeſt to her Holy Father to ſend her a thouſand pounds out of the Catholick Contributions, in order to the paying of her Fine, that ſhe may give him a ſpeedy Viſit, &amp; inſtruct him farther in his grand Affairs.</p>
+            </argument>
+            <opener>
+               <salute>HOLY FATHER,</salute>
+            </opener>
+            <p>IT is not to be expreſſed, what Joy I conceived at the peruſal of your Letter, which in ſpite of all the raging Hereticks Devices to Intrap, came ſafe unto the hands of your obedient Daughter, who kiſſed it at leaſt a thouſand times e're ſhe could read it out; imbracing it as the dear Pledg of Peace from you, unto her reſt<g ref="char:EOLhyphen"/>leſs Thoughts; whoſe Vertue moſt miracalouſly circumfuſed thoſe Fears and Terrors that o'recaſt her Cloudy Soul and made her wander in a miſt of Horrors and diſtracting Doubts; for me thoughts I had no ſooner fixed my Eyes upon it, but my Plotting genius uneclips'd, and double Vigor ſpread through every part, The Cauſe came freſh into my mind, and I reſolved not to give over, nor forſake thoſe holy purpoſes my Brains
+<pb n="2" facs="tcp:51790:2"/>were once ſo pregnant with, nor ſuffer them to fail for want of being put in Practice though <hi>I</hi> remained within the unhallowed Walls of a Terreſtial Tophet, not unlike your Purgatory, on the little Entry on the backſide of your Seraglio, that leads to <hi>Plu<g ref="char:EOLhyphen"/>to</hi>'s Poſtern-Dore; through which as I have heard by ſome departed Jeſuites, you ſend thoſe Bagages of Nuns, as are ſo impudent as to deny their Univerſal Dad ſuch Crums of Comfort to refreſh his Cockatrice, as ſordid Monks without a prick to Conſcience dayly Chew upon.</p>
+            <p>But to wave that point, and yet come nearer to my own particular Caſe, you write dear Father; that you lately heard from the Provincial of my mighty ſufferings, but I am afraid you have not yet received the full Relation of them, as to the Meal-tub per<g ref="char:EOLhyphen"/>ſecution, I doubt not but that you are fully informed in every circumſtance, and perhaps more than was done, for I indeed did make the moſt on't, to gain the greater pity, and to ſet a fairer gloſs upon the rugged Cauſe, but as for theſe late ones, O I dread to tell you all the deal of miſery, leſt it ſhould turn you and your Conclave into Lachrime, and make you weep your Eyes out, at which I know the Hereticks would laugh and ſni<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ker till they bepiſs themſelves, therefore as yet to tell the depth of my Afflictions you muſt excuſe me, or I my ſelf will heartily entreat your pardon, and in requital for the ſame if ever I come to <hi>Rome</hi> will preſent your Holineſs with ſuch a Meſs of ſtrengthning Jelly, as ſhall make Prickaro mount his head aloft, and then to lay it, will procure you one of the Buckſomeſt Laſſes that your City can afford; you need not doubt my Skill in chooſing, for all my ſufferings and Afflictions have not made me to forget my antient Trade of hagling for humane Fleſh, or if it better like your Holineſs to ſail in a well ſeaſoned Frigot <hi>(bona fide)</hi> you ſhall have my weather-beaten-Skiff, that be ſure will hold againſt both Wind and Tide.</p>
+            <p>But to my ſecond Perſecution, Oh I tremble for to name the minor part of it, leaſt foreign Catholicks ſhould run ſtark mad to hear ſuch horrors told, the which ſome millions here have done to ſee; oh my Narrative, that Balſome for the wounded Cauſe and Thunderbolt to guard it when once healed. That it was, that pulled on me this ſecond Skeam of woe, one of which I doubt not but you have received as my Preſent to you and your Conclave, from my Ladies Footboy, whom we ſent on purpoſe, and gave him monies, with ſtrict Charge to bring a couple of Indulgencies to diſpence with Lying and Whoring, and ſuch like trivial things, but I ſee your Catholick Care and Bounty has been great, to ſend me a hundred on freecoſt before the Lad could Ar<g ref="char:EOLhyphen"/>rive; but I will deſerve them e're I come to ſee you if my genius fail me not; for I have yet ſome twenty Plots in ſtore that never yet were ſet on broach, all pickled up and kept as a Reſerve; but I dwell too long upon Circumſtances, and neglect materials. Well then, no ſooner had I eſcaped ſo fairly from the bottom of the Meal-tub, and putting new Hoops thereon, to make it hold, ſent it to your Holineſs as the firſt Signal of the Cauſes good ſuceeſs, but I found my Soul more Active, and my Zeal blazed faſter which prompted me on to lay a yet more deep Foundation to our tottering ſuperſtru<g ref="char:EOLhyphen"/>cture; whereupon I pondered a while, but long had not, e're ſome unknown Cacodae<g ref="char:EOLhyphen"/>mon buz'd into my Ears the laying down ſuch fundamental precepts as might make the World believe the Plot was but a Chimaera of Fantaſtick Brains (no doubt but you ſent him to promote ſo good a work, in which I was the notorious inſtrument) upon which I found my Brains too weak to mannage ſuch profound Affairs, yet reſolved not to let the happy motion ſlip, <hi>I</hi> went to your beloved Sons in <hi>Limbus patrum</hi>) where the Hereticks had put them up a fatting, and found means to tell them what a birth <hi>I</hi> labour<g ref="char:EOLhyphen"/>ed with, of which if they would help but to deliver me, it would not only be meri<g ref="char:EOLhyphen"/>torious, but likewiſe advantagious to every man and Mothers Child that adore your Holineſs, and hold you ſupream Controuler of <hi>Pandamonium;</hi> Well, <hi>I</hi> had no ſooner propoſed, but <hi>I</hi> found them readier to comply than <hi>I</hi> was to deſire them. Having as they told me power to diſpence with all manner of Villanies that might conduce to their Intereſt. Here we ſtruck a Bargain, and as the three <hi>Heathen gods</hi> by piſſing in old <hi>Baucis</hi> Bull-hide did procure him a Son, ſo we by laying our miſchievous Heads together in ſix weeks brought forth this monſtrous Bantling for your Holineſs, and ſent it out full gorged with Poiſon to ſpit its Venome againſt our Adverſaries, with a ſtrict Charge, that whereſoever it came it ſhould own you for Father and me for its mother. Some of your Sons of no mean Rank would have perſwaded me to haue put my Moun<g ref="char:EOLhyphen"/>ſiers
+<pb n="3" facs="tcp:51790:2" rendition="simple:additions"/>Horns upon its Front, that ſo it might have puſhed Hereticks before it, and indeed ſuch Arms might have done well in times ſo dangerous, for <hi>I</hi> dare affirm they are far larger if not quite as ſtrong as thoſe that <hi>Gedelia</hi> made for <hi>Ahab</hi> in the days of yore. This device, or elſe the Blackamoors gimcracks that <hi>I</hi> loved ſo well had certainly been put on; had not <hi>I</hi> upon ſecond thoughts had greater Veneration for your Croſs, which was no doubt very ominous, for it has proved Croſs to me, and croſſed every vain in my poor Heart.</p>
+            <p>For why we are ſo eager in the ſhuffling our Off-Spring together, that he might not be took napping, and ſo rendered Abortive before he had Infected the Credulous, that we minded not of what ſtuff we tempered him, ſo that when he came narrowly to be ſifted by the Judicious, he was found to be the damdeſt Medly that ever yet took; being ſome affirmed him to be quickned like <hi>Prometheus</hi> his Man of Clay, by the Miſtick help of ſtolen Fire, the which to my ſa<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> grief by the opening of <hi>Pandoras</hi> Box, I ſhort<g ref="char:EOLhyphen"/>ly after found too true) others affirmed him Hocus-Pocus Baſtard got upon the Strum<g ref="char:EOLhyphen"/>pet Legerdemain, and all in general concluded it, to have it's Original from the Fa<g ref="char:EOLhyphen"/>ther of Malitious Lies, yet notwithſtanding I brazened it out, and owned it as my Dar<g ref="char:EOLhyphen"/>ling, though to tell the truth I had leaſt ſhare in it; well this would not ſerve my turn, for it was taken ſo to task, and ſhaken by the Heels, till high Miſdemeanours, if not Treaſon in its black hue dropped out of its Pocket, or Chimically extracted from the other ſtuff, it was compounded of, then was your Daughter in the midſt of all her Jollitry, once more ſurprized and hurried to Anſwer for the dangerous Ill's our Ad<g ref="char:EOLhyphen"/>verſaries had drained from our Iſſue. But here the Counſelling Daemon that was wont to attend my Sollitudes hearing the Hereticks ſhout, left me in the lurch and ſneaked to Hell, which ſo diſheartened me that I had not Impudence enough to deny what I before had owned, ſo that the Wooden Engine with which you will ſee in my Narrative, I have ſo often upbraided my Late Placket Friend; to deſcribe it, indeed it is almoſt like your Pontifick Chair, but that it wants a Canopy web to prevent this and the eminent Storm that the Heritick Rabble threatned to ſhower on my Crown, once more I Summoned my Infernal Fugative in your powerful name who like a lowl ear'd Cur at laſt peeped with his Horns above board, after I had railed at him ſufficiently I ſent him to the Jeſuits to conſult with them what was beſt to be done, where by unanimous con<g ref="char:EOLhyphen"/>ſent, it was agreed that when my Tormenters came to iſult and bid me prepare for my Perſecution I ſhould take a Doſe of ſtrong Purgation, this I punctually obſerved, and timed it to the time they ordered me to be prepared for the dreadful buſineſs, but alas the Hereticks deceived me, and gave a falſe Alarm, yet to prevent the worſt I ſtood up<g ref="char:EOLhyphen"/>on my Guard, feigned to be monſtrous ſick and diſcharged my whole Artillery at both ends, with ſuch fury. that what for fume and noiſe, none durſt approach me; this eluſi<g ref="char:EOLhyphen"/>on made me half diſtracted and concluded the Devil was no Conjurer, for if he had, no doubt the Dog would have ſaved me this Project till there had been certain occaſion for it; well, vexed as I was, I ſet my invention on the Wrack again, and being near Neigh<g ref="char:EOLhyphen"/>bour to your ſuffering Sons, I did in no wiſe want their Councils; ſo that again our Brains brought forth a project new, and ſtrange, knowing that the time of my general Oſtentation was not now far off, whereupon I ſent my maid for a Bulls Cod, which fil<g ref="char:EOLhyphen"/>led with Blood <hi>I</hi> thruſt into my Semy-Circle, upon the morning that <hi>I</hi> was by Order doomed to mount. Well, this fitted my purpoſe paſſing well, for when they came to bid me riſe, <hi>I</hi> counterfeited Child-bed-throwes, and bellowed lowder than the fatteſt Bull your Conclave ever afforded, and fetched ſuch groans, as might well have been heard to <hi>Rome,</hi> yet my Tormentors were ſo barbarous as rudely to force entrance though I had barrocaded up the Dore, then <hi>I</hi> yelled ſo, that thoſe who heard from far, ſuppoſed the noiſe proceeded from a ſpeaking Trumpet, which Out-cry drove them back to him that ſent them; then was a grave Matron ſent for, who attended with a Female-guard, to view the Premiſſes, and make a narrow ſearch into the mighty buſineſs that had made the grand diſturbance, the which after much Pumping of her Conſcience I did permit, which ſeemed to me ſo ſoft, that Gold would make Impreſſion there, and to boot, <hi>I</hi> alſo promiſed to get her one of your Indulgencies to pardon all the Lies ſhe told, or Oaths that ſhe ſhould ſwear tho never ſo falſe, but <hi>I</hi> was miſtaken, &amp; once more my Devil failed me in my greateſt neceſſity, for ſhe proved Heretical, and would not touch what I well thought all the World adored, but return'd my monſtrous teaming ignoramus, and to the immortal ſcandal of the holy Cauſe layed all the intreague open, to the babling
+<pb n="4" facs="tcp:51790:3" rendition="simple:additions"/>World, wel, <hi>I</hi> would not be ſo ſerved, but call'd her falſe perfidious and a thouſand Names roaring out louder than at firſt, and curſed with many Execrations loud and bloody, whereupon a ſecond was produced, who was my Siſter Trade, her by her Looks I dared to truſt, and after found her to be neither Heretick nor Papiſt, nor indeed of any Religion whatſoever, but having left her Conſcience faſt aſleep at home, for half a Crown a ſmaller Fee than ever <hi>I</hi> was bribed for, ſhe did affirm the Scene was Tragi<g ref="char:EOLhyphen"/>cal, and that the mighty Monſter that had cauſed all this buſtle, was about to peep in<g ref="char:EOLhyphen"/>to the World, offering to ſwear what ever <hi>I</hi> would have her; but in vain, for my per<g ref="char:EOLhyphen"/>ſecutors would not believe one word, ſo that when <hi>I</hi> ſaw my Projects would not take <hi>I</hi> ſtarted up and bid defiance to them all, and preſently betook me to my Armour, clap<g ref="char:EOLhyphen"/>ing on my Coat of Male; and for a Caske thruſt my head into a Leathern-Bottle, then ſtrenuouſly (as <hi>Romes</hi> Championeſs) Like <hi>Jezabel I</hi> marched along to the War Charriot that they had prepared to tranſport me to the Theater whereon <hi>I</hi> was to Act my part, in view of all the gaping Heriticks, but e're <hi>I</hi> went, <hi>I</hi> did bethink my ſelf that <hi>I</hi> ſhould want a Buckler for to defend me from the lowering Tempeſt that <hi>I</hi> was to encounter with; and therefore gave order to my Maid to run before, and fetch my Peel, which <hi>I</hi> having got, mounted up aloft, and thought my ſelf as pompous and as well attended as Pope <hi>Jone</hi> in her Proceſſion to St. <hi>Angello.</hi>
+            </p>
+            <p>Well then, <hi>I</hi> peeping through my Head-piece, could not chuſe but laugh to ſee the grinning Rout ſurround me, whilſt <hi>I</hi> braved them with my wooden Buckler and Fence of truſty Bull-hide, then preſently the Storm began, and the perſecuting Hereticks with Rage toſſed Milſtones at me thick and faſt, the leaſt of which could not be leſs than a thouſand weight, and Iron Globes about one hundred weight like Hail, which reboun<g ref="char:EOLhyphen"/>ded from my mighty Helmet, at leaſt ſome fifty Yards into the Air; nay more than that, ſo furious were they bent on my Deſtruction, that ſome of them had planted Cannons whoſe Balls as faſt as they were ſent, like Sugar-plums I catched between my Teeth; but this no doubt was done by Miracle; after which I verily ſuppoſed they would have made <hi>Dianah</hi> on me, they having ſet me up in State, immediately a Fire was kindled, into whoſe Flam<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s I doubted not but In<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>enie would have been thrown in honour of my <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, and that the H<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>reticks would have relented of the injuries late done, but <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> made to receive my I<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſue that had cauſed all the Buſtle; there did <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> are Babe expire, and was Perfumed with his Ruine.</p>
+            <p>
+               <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> P<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rſecutions, that the Heathen Emperors were ſtrangers to did <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ſuffer, or I would have you at leaſt believe ſo, and perſwade <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> belief as I have done to all the eaſie Catholicks in <hi>England.</hi> Well, <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ll they can inflict, your large promi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es will make amends; I will <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> laſt You ſay your Cofers ar open, pray ſend me one thouſand pounds in <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> procuring my diſcharge, that I may come to <hi>Rome</hi> and viſit you to inſtruct <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> in Affairs, you are yet ignorant of, to be your privy Counſellor, Nurſe are Mi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="6 letters">
+                  <desc>••••••</desc>
+               </gap> any of which would pleaſe me wondrous well; or if thoſe places be ſupplied, to <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> you intimated, Midwife-General to your Seraglio till <hi>England</hi> come into your hands. If you have not the mony, make a Brief, and to encourage the Doners, tell them this lamentable Story, that I tyed by the Great-toe with a Packthread, and hung out for a Sign on the top of all the Monument, and muſt not be taken down till the like Sum be paid. This from your Obedient Daughter, and faithful Servant to pro<g ref="char:EOLhyphen"/>mote the Cauſe,</p>
+            <closer>
+               <dateline>NEWGATE, <date>Oct. the 6. 1680.</date>
+               </dateline>
+               <signed>E. C.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed by <hi>D. Mallet,</hi> 1680.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
